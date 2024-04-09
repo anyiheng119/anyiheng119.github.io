@@ -49,13 +49,13 @@ Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Pr
 
 *Zhixuan Liao, MSBA 22’, Business Intelligence Analyst @ Carnival Cruise Line*
 
----
+--
 
 “I just wanted to tell you that I’m thankful for you. You go above and beyond to help us all with not only class assignments but practicum projects and so much more. Your patience and kindness is remarkable. You are truly one of the smartest people I know and I’m grateful to have you as my TA.”
 
 *Khushi Arya, MSBA 23’*
 
----
+--
 
 “He really is a good TA. Respect”
 
@@ -63,7 +63,7 @@ Quality: 5.0/5.0
 Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
 *Anonymous student from BAN6053 RateMyProfessors.com - Yiheng An*
 
----
+--
 
 “I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!”
 
