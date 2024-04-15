@@ -7,13 +7,42 @@ author_profile: true
 
 ## Undergraduate Courses from Nanjing Agricultural University
 
+### Mathematics:
 Advanced Mathematics I A
 
 Advanced Mathematics II A
 
 Applied Statistics
 
+Linear Algebra A
+
+Probability Theory and Mathematical Statistics A
+
+
+### Economics:
 Microeconomics
+
+Macroeconomics
+
+Econometrics
+
+Intermediate Microeconomics
+
+Intermediate Macroeconomics
+
+Industrial Economics
+
+Public Economics
+
+Development Economics
+
+Economics of Money and Finance
+
+International Trade
+
+International Finance
+
+International Investment
 
 ---
 
