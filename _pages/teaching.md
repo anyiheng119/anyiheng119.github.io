@@ -62,6 +62,7 @@ Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Pr
 
 - Quality: 5.0/5.0
 - Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
+
 *Anonymous student from BAN6053, [RateMyProfessors.com - Yiheng An](https://www.ratemyprofessors.com/professor/2995317)*
 
 ---

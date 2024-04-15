@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome/Bienvenido! My life has taught me that growth often comes from discomfort. I embrace this by seeking out challenges that push me beyond my perceived limits. This approach has allowed me to develop a diverse set of transdisciplinary skills. Today, I am a hybrid: part plant scientist, part data scientist.
+Welcome! My life has taught me that growth often comes from discomfort. I embrace this by seeking out challenges that push me beyond my perceived limits. This approach has allowed me to develop a diverse set of transdisciplinary skills. Today, I am a hybrid: part plant scientist, part data scientist.
 
 <p align="center"><img title="Emmanuel: part plant scientist, part data scientist" alt="" src="images/plant_data_scientist.png"></p> 
 
