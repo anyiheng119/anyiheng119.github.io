@@ -8,8 +8,7 @@ author_profile: true
 ## Collaborative Projects with Industry Clients
 
 
-
-![test image](images/animation.png "Project 1 Description") Description for Project 1.
+<p align="center"><img title="test image" alt="" src="images/animation.png"></p> 
 
 
 - Econ 430: Applied Statistics and Econometrics with R and Python, Fall 2020
