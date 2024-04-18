@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-<p align="center"><img title="Emmanuel taking picture of moss in a Washington state forest" alt="" src="images/IMG_20220309_203615.jpg" style="width:60%"></p> 
+![test image](images/animation.png "Project 1 Description") Description for Project 1.
 
 
 - Econ 430: Applied Statistics and Econometrics with R and Python, Fall 2020
