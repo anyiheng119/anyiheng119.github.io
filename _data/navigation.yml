@@ -3,26 +3,33 @@ main:
   - title: "Background"
     url: /background/
 
-  - title: "Publications"
-    url: /publications/
-
-  # - title: "Research"
-  #   url: /research/
-
   # - title: "Extension"
   #   url: /extension/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-        
+    url: /teaching/
+
+  - title: "Clients"
+    url: /clients/ 
+    
+  - title: "Courses"
+    url: /courses/    
+  
+  - title: "Talks"
+    url: /talks/ 
+
+  - title: "Publications"
+    url: /publications/
+
   - title: "Blog"
     url: /posts/
     
   - title: "Resume"
     url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
