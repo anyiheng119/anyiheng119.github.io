@@ -67,4 +67,4 @@ Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
 
 “I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!”
 
-*Dr. Jennifer Claggett, Assistant Professor*
+*Dr. Jennifer Claggett, Associate Professor*

@@ -3,14 +3,18 @@ layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
+header:
+  og_image: "research/IMG0102_resize.PNG"
 ---
 
-{% if site.talkmap_link == true %}
+My research falls into two general areas: developing novel tools to improve the study of phenotypes in a high-throughput manner and studying the variation and temporal basis of adaptive traits. Advanced methods such as machine learning, distributed computing, container technology, and computer vision are used throughout my research agenda.
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<nbsp>
 
-{% endif %}
+{% include base_path %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
