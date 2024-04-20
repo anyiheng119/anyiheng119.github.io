@@ -13,7 +13,7 @@ Yiheng has spoken at university commencements, career development events, and is
 
 {% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+{% assign ordered_pages = site.talks | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
