@@ -8,7 +8,6 @@ date: 2024-04-09
 location: "Zoom"
 venue: "Alumni Panel for UCLA Master in Quantitative Economics, 2024 Spring"
 toc: true
-excerpt: <!--more-->
 tags:
   - Panel Discussion
   - Career
@@ -16,7 +15,6 @@ tags:
 ---
 
 Alumni Panel for UCLA Master in Quantitative Economics 
-<!--more-->
 
 ---
 
