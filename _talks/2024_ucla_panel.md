@@ -14,13 +14,8 @@ tags:
   - UCLA
 ---
 
-Alumni Panel for UCLA Master in Quantitative Economics 
-
----
-
-Date: Tues 4/9 5:30 - 6:30 pm PST via Zoom
-
-Event: MQE & UCLA Alumni Panel
+Event: Alumni Panel for UCLA Master in Quantitative Economics
+> Shared career journeys with admitted and current MQE students at UCLA
 
 Panelists:
 - **Yiheng An, MQE ‘22 - Fellow, Center for Analytics Impact - Wake Forest University School of Business**
