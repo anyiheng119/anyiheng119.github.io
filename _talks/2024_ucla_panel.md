@@ -25,5 +25,6 @@ Panelists:
 - Kamakshi Sirpal, MQE ‘23 - Data and Policy Analyst II - Acumen, LLC
 
 
-
-<img src='/images/talks/2024_mqe_panel.jpg' style='width:auto; height:auto;'>
+<div align="center">
+  <img src='/images/talks/2024_mqe_panel.jpg' style='width:60%;' >
+</div>
