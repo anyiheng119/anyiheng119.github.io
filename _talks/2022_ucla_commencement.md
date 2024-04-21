@@ -18,5 +18,5 @@ tags:
     <img src="/images/talks/2022_ucla_grad.png" alt="MQE Graduation 2022" style="width: 80%;">
 </div>
 <div align="center">
-    Valedictorian Speech at UCLA Master in Quantitative Economics Commencement, June 2022
+    Yiheng An, Valedictorian Speech at UCLA MQE Commencement, June 2022
 </div>
