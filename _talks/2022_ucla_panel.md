@@ -1,10 +1,10 @@
 ---
-title: "Career Pathways: Government & Research"
+title: "MQE Alumni Panel - 2022 Orientation"
 excerpt: "<img src='/images/talks/2022_mqe_panel.jpg' style='width:auto; height:auto;'>"
 collection: talks
 type: "Panel Talk"
 permalink: /talks/2022_ucla_panel
-date: 2022-09-19
+date: 2022-09-20
 location: "Zoom"
 venue: "Alumni Panel for UCLA Master in Quantitative Economics, 2022 Fall"
 toc: true
