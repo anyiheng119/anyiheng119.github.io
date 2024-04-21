@@ -6,6 +6,7 @@ type: "Panel Talk"
 permalink: /talks/2024_ucla_panel
 date: 2024-04-09
 location: "Zoom"
+toc: true
 excerpt_separator: <!--more-->
 tags:
   - Panel Discussion
@@ -19,7 +20,9 @@ Alumni Panel for UCLA Master in Quantitative Economics
 ---
 
 Date: Tues 4/9 5:30 - 6:30 pm PST via Zoom
+
 Event: MQE & UCLA Alumni Panel
+
 Panelists:
 - **Yiheng An, MQE ‘22 - Fellow, Center for Analytics Impact - Wake Forest University School of Business**
 - Benedikt Graf, MQE ‘21 - Sr. Manager, Data & Technology - Sustento Group
