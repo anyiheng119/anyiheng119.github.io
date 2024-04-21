@@ -1,13 +1,22 @@
 ---
-title: "Career Pathways: Government & Research - MQE & UCLA Alumni Panel"
+title: "Career Pathways: Government & Research"
 excerpt: "<img src='/images/talks/2024_mqe_panel.jpg' style='width:auto; height:auto;'>"
 collection: talks
 type: "Panel Talk"
 permalink: /talks/2024_ucla_panel
 date: 2024-04-09
 location: "Zoom"
+excerpt_separator: <!--more-->
+tags:
+  - Panel Discussion
+  - Career
+  - UCLA
 ---
 
+Alumni Panel for UCLA Master in Quantitative Economics 
+<!--more-->
+
+---
 
 - Date: Tues 4/9 5:30 - 6:30 pm PST via Zoom
 - Event: MQE & UCLA Alumni Panel
