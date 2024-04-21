@@ -1,6 +1,6 @@
 ---
 title: "Career Pathways: Government & Research"
-excerpt: "<img src='/images/talks/2024_mqe_panel.jpg' style='width:auto; height:auto;'>"
+excerpt: "<img src='/images/talks/2024_mqe_panel.jpg' style='width:auto; height:150px;'>"
 collection: talks
 type: "Panel Talk"
 permalink: /talks/2024_ucla_panel
@@ -18,6 +18,3 @@ location: "Zoom"
     - Somjita Mitra, UCLA ‘00 - Chief Economist - California Department of Finance
     - Odera Onyechi, MQE ‘21 - Research Analyst, Center for Sustainable Development - The Brookings Institution
     - Kamakshi Sirpal, MQE ‘23 - Data and Policy Analyst II - Acumen, LLC
-
-
-<img src='/images/talks/2024_mqe_panel.jpg' style='width:auto; height:auto;'>
