@@ -13,10 +13,10 @@ tags:
   - UCLA
 ---
 
-Event: UCLA Master in Quantitative Economics Commencement, June 2022
 
-
-<div style="display: flex;">
+<div style="display: flex; align="center">
     <img src="/images/talks/2022_mqe_grad1.jpg" style="width: 50%; height: auto;">
-    <img src="/images/talks/2022_mqe_grad2.jpg" style="width: 50%; height: auto;">
+    <img src="/images/talks/2022_mqe_grad2.jpg" style="width: 23%; height: auto;">
 </div>
+
+*Valedictorian Speech at UCLA Master in Quantitative Economics Commencement, June 2022*
