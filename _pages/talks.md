@@ -16,5 +16,5 @@ Yiheng has spoken at career development events, university commencements, and gr
 {% assign ordered_pages = site.talks | sort:"order_number" %}
 
 {% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single-talk.html type="grid" %}
 {% endfor %}
