@@ -14,8 +14,9 @@ tags:
 ---
 
 
-<div style="text-align: center;">
-    <img src="/images/talks/2022_ucla_grad.jpg" alt="MQE Graduation 2022" style="width: 50%;">
+<div align="center">
+    <img src="/images/talks/2022_ucla_grad.png" alt="MQE Graduation 2022" style="width: 80%;">
 </div>
-
-*Valedictorian Speech at UCLA Master in Quantitative Economics Commencement, June 2022*
+<div align="center">
+    Valedictorian Speech at UCLA Master in Quantitative Economics Commencement, June 2022
+</div>
