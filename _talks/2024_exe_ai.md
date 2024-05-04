@@ -3,10 +3,10 @@ title: "AI Advice for Executive"
 excerpt: "<img src='/images/talks/2024_exe_ai.png' style='width:auto; height:auto;'>"
 collection: talks
 type: "Panel Talk"
-permalink: /talks/2024_ucla_panel
+permalink: /talks/2024_exe_ai
 date: 2024-05-03
-location: "Zoom"
-venue: "An educational talk aimed at helping business leaders understand AI trends at the Wake Forest University, School of Business"
+location: "Wake Forest University, School of Business"
+venue: "An educational talk aimed at helping business leaders understand AI trends, co-hosted with Professors Mike Ames and Shannon McKeen"
 toc: true
 tags:
   - AI
