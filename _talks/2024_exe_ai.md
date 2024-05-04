@@ -1,6 +1,6 @@
 ---
 title: "AI Advice for Executive"
-excerpt: "<img src='/images/talks/2024_exe_ai.jpg' style='width:auto; height:auto;'>"
+excerpt: "<img src='/images/talks/2024_exe_ai.png' style='width:auto; height:auto;'>"
 collection: talks
 type: "Panel Talk"
 permalink: /talks/2024_ucla_panel
@@ -20,5 +20,5 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
 
 
 <div align="center">
-  <img src='/images/talks/2024_exe_ai.jpg' style='width:60%;' >
+  <img src='/images/talks/2024_exe_ai.png' style='width:60%;' >
 </div>
