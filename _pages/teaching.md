@@ -70,3 +70,11 @@ Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Pr
 “I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!”
 
 *Dr. Jennifer Claggett, Associate Professor*
+
+---
+
+<div align="center">
+    <img src="/images/2024_thank_you_note.jpg" alt="Thank You Note" style="width: 80%;">
+</div>
+
+*MSBA Class of 2024*
