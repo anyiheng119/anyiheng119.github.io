@@ -77,4 +77,4 @@ Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Pr
     <img src="/images/2024_thank_you_note.jpg" alt="Thank You Note" style="width: 80%;">
 </div>
 
-*MSBA Class of 2024*
+*Thank You Note from MSBA Class of 2024*
