@@ -7,7 +7,8 @@ author_profile: true
 #  og_image: "research/IMG0102_resize.PNG"
 ---
 
-Yiheng has spoken at career development events, university commencements, and graduate classes. He is also the creator of several tutorial workshops on topics related to Economics, Data Analytics, Business Intelligence, and AI for business students.
+Yiheng has been invited to speak at several events, including a university commencement, career development panels, and guest lectures on Machine Learning and AI. He also runs workshops that help business students and executives build data literacy and stay current with the latest trends in Analytics, Data Science, and AI.
+
 
 <nbsp>
 
