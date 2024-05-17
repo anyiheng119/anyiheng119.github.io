@@ -87,11 +87,6 @@ Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Pr
 
 ---
 
-<div align="center">
-    <img src="/images/2024_thank_you_note_2.jpg" alt="Thank You Note" style="width: 80%;">
-</div>
-
-
 Translated from Chinese:
 
 "To Yiheng,
@@ -99,5 +94,10 @@ Translated from Chinese:
 It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much!
 
 I wish you all the best in achieving your dreams and everything you aspire to!"
+
+<div align="center">
+    <img src="/images/2024_thank_you_note_2.jpg" alt="Thank You Note" style="width: 80%;">
+</div>
+
 
 *Shuzhe Wang, MSBA 24’*
