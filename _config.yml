@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiheng An"
 title_separator          : "-"
 name                     : &name "Yiheng An"
-description              : &description "Analytics Fellow | Image and Point Cloud Data Analyst | Team Mentor | Aspiring Agricultural Data Scientist"
+description              : &description "Analytics Fellow | Wake Forest University School of Business | Aspiring Data Scientist"
 url                      : https://anyiheng119.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "anyiheng119/anyiheng119.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiheng An"
   avatar           : "Yiheng An.jpg"
-  bio              : "Analytics Fellow | Wake Forest University School of Business"
+  bio              : "Analytics Fellow @ Wake Forest University, School of Business"
   location         : "Winston Salem, NC"
   employer         : 
   pubmed           : 
