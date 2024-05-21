@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-I am an Fellow at the [Center for Analytics Impact](https://business.wfu.edu/center-for-analytics-impact/), Wake Forest University School of Business. Prior to this position, I received my master's degree in Quantitative Economics from the University of California, Los Angeles (UCLA) and my bachelor's degree in Economics from Nanjing Agricultural University. My research interests include quantitative marketing, AI and Machine Learning in Marketing. My current focus is on the intersection of marketing, data science, and decision science. Beyond my studies, I love traveling and exploring new places.
+I am an Fellow at the [Center for Analytics Impact](https://business.wfu.edu/center-for-analytics-impact/), Wake Forest University School of Business. My research interests include quantitative marketing, AI and Machine Learning in Marketing. My current focus is on the intersection of marketing, data science, and decision science. Beyond my studies, I love traveling and exploring new places.
+
+# Education
+- Master's Degree 2022, Econometrics and Quantitative Economics, University of California, Los Angeles (UCLA) 
+- Bachelor's Degree 2020, International Economics and Trade, Nanjing Agricultural University
 
 
 <!-- 
