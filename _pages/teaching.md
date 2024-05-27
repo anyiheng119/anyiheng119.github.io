@@ -22,12 +22,26 @@ author_profile: true
   - [Course Description](https://cals.arizona.edu/spls/content/introductory-biotechnology)
 -->
 
-<!--
-## Teaching Philosophy
--->
 
-## School of Business, Wake Forest University
-Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Program
+## Teaching Philosophy (as a Teaching Assistant)
+My teaching philosophy as a Teaching Assistant revolves around two key objectives: supporting student learning and collaborating effectively with faculty.
+
+**Supporting Student Learning**
+
+My foremost goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like presentation slides and written notes, I leverage technology to facilitate interactive learning. This includes using phones and computers for real-time questions, providing online quizzes to reinforce concepts, and utilizing discussion forums for ongoing engagement. I adopt a problem-solving mindset, aiming to equip students with the tools and guidance they need to independently tackle and resolve issues, rather than simply providing solutions.
+
+**Collaborating with Faculty**
+
+The second objective is to work seamlessly with teaching faculty to enhance the overall educational experience. I strive to understand the underlying purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves clarifying preferred communication methods with students and being consistently responsive and reliable. My commitment to these practices is rooted in my aspiration to become an impactful business educator, driven by a strong work ethic and a genuine willingness to assist. By maintaining clear and professional collaboration, I aim to contribute to a productive and supportive learning environment.
+
+These goals reflect my dedication to fostering a comprehensive and engaging educational experience for both students and faculty.
+
+
+## Teaching Experience
+
+School of Business, Wake Forest University
+
+*Teaching Assistant* (Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Program)
 
 - BAN 6020: Data Management (Fall 2023, Teaching Assistant for Prof. Michael Ames)
 - BAN 6082: Business Analytics Practicum: Foundations (Fall 2023, Teaching Assistant for Prof. Shannon McKeen)
