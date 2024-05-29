@@ -68,7 +68,7 @@ Teaching Assistant @ School of Business, Wake Forest University
 
 “I just wanted to tell you that I’m thankful for you. You go above and beyond to help us all with not only class assignments but practicum projects and so much more. Your patience and kindness is remarkable. You are truly one of the smartest people I know and I’m grateful to have you as my TA.”
 
-*Khushi Arya, MSBA 23’*
+*Khushi Arya, MSBA 23’, Incoming Supply Planning Analyst @ Ralph Lauren*
 
 ---
 
@@ -84,6 +84,12 @@ Teaching Assistant @ School of Business, Wake Forest University
 “I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!”
 
 *Dr. Jennifer Claggett, Associate Professor*
+
+---
+
+“Exceptionally tech-savvy and incredibly responsible.”
+
+*Dr. Jia Li, Associate Professor*
 
 ---
 
