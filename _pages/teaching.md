@@ -108,7 +108,7 @@ Teaching Fellow / Assistant @ School of Business, Wake Forest University
 
 ---
 
-"He’s the best. Absolutely hard carrying this program. He has helped with with everyone’s codes. He deserves to be paid more."
+"He’s the best. Absolutely hard carrying this program. He has helped with everyone’s codes. He deserves to be paid more."
 
 *Chris Kenney, Economic Development Finance Intern @ Grow America (formerly NDC)*
 
