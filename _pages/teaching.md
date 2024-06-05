@@ -84,9 +84,15 @@ Teaching Fellow / Assistant @ School of Business, Wake Forest University
 
 ---
 
+"Exceptionally tech-savvy and incredibly responsible."
+
+*Dr. Jia Li, Associate Professor*
+
+---
+
 "Thank you so much for all your hard work, Yiheng! I really appreciate all your efforts, and thank you for making Professor Ames's courses more manageable. You always responded to our questions and were able to help. Good luck with everything ahead. You have a bright future."
 
-*Jennifer Ontiveros-Olivas, MSBA 23’, Incoming Operations Global Graduate at Reynolds American*
+*Jennifer Ontiveros-Olivas, MSBA 23’, Incoming Operations Global Graduate @ Reynolds American*
 
 ---
 
@@ -102,9 +108,9 @@ Teaching Fellow / Assistant @ School of Business, Wake Forest University
 
 ---
 
-“Exceptionally tech-savvy and incredibly responsible.”
+"He’s the best. Absolutely hard carrying this program. He has helped with with everyone’s codes. He deserves to be paid more."
 
-*Dr. Jia Li, Associate Professor*
+*Chris Kenney, Economic Development Finance Intern @ Grow America (formerly NDC)*
 
 ---
 
