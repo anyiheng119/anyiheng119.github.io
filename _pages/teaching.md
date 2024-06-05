@@ -23,20 +23,23 @@ author_profile: true
 -->
 
 
-## Teaching Philosophy (as a Teaching Assistant)
+## Teaching Philosophy (as a Teaching Fellow / Assistant)
 
-I shape my role as a Teaching Assistant around two central goals.
+I shape my role as a Teaching Fellow around two central goals.
 
-My first goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like Office Hours and Q&A Sessions, I leverage technology to facilitate hands-on learning. This includes group working sessions, live-coding and debugging sessions, and tutorial workshops. I adopt a problem-solving mindset, aiming to equip students with the tools and guidance they need to independently tackle and resolve similar issues, rather than simply providing solutions.
+My first goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like Office Hours and Q&A Sessions, I facilitate hands-on learning through group working sessions, live-coding and debugging sessions, and tutorial workshops. My approach emphasizes problem-solving, aiming to equip students with the tools and guidance to independently tackle issues, rather than just providing answers and solutions.
 
-The second goal is to work seamlessly with teaching faculty to enhance the overall educational experience. I strive to understand the underlying purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves clarifying preferred communication methods with students and being consistently responsive and reliable. 
+The second goal is to serve as a reliable partner to teaching faculty to enhance the overall educational experience. I strive to understand the underlying purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves effective communication, collaborative planning, and proactively addressing changes to ensure that our efforts are synchronized and contribute positively to the students' learning outcomes.
 
-My commitment to these practices is rooted in my aspiration to become an impactful business educator, driven by a strong work ethic and a genuine willingness to assist. These goals reflect my dedication to fostering a productive and supportive educational experience for both students and faculty.
+My commitment to these practices is rooted in my aspiration to become an impactful business educator, driven by a strong work ethic, a genuine willingness to help, and a sense of fulfillment.
 
+<!-- 
+These goals reflect my dedication to fostering a productive and supportive educational experience for both students and faculty.
+-->
 
 ## Teaching Experience
 
-Teaching Assistant @ School of Business, Wake Forest University
+Teaching Fellow / Assistant @ School of Business, Wake Forest University
 
 *Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Program*
 
@@ -54,25 +57,25 @@ Teaching Assistant @ School of Business, Wake Forest University
 
 ## Selected Comments
 
-“Yiheng joined Wake Forest University as a fellow in July 2022 and has since proven invaluable to our students. He has provided outstanding support across various fields, including machine learning, supply chain, and marketing. Yiheng’s patient and knowledgeable approach was instrumental in helping us successfully complete our practicum project using the cohort analysis method. His hardworking nature and willingness to assist students with any problem related to job search or academics are genuinely commendable. I highly recommend Yiheng to anyone seeking a dedicated and knowledgeable colleague.”
+"Yiheng joined Wake Forest University as a fellow in July 2022 and has since proven invaluable to our students. He has provided outstanding support across various fields, including machine learning, supply chain, and marketing. Yiheng’s patient and knowledgeable approach was instrumental in helping us successfully complete our practicum project using the cohort analysis method. His hardworking nature and willingness to assist students with any problem related to job search or academics are genuinely commendable. I highly recommend Yiheng to anyone seeking a dedicated and knowledgeable colleague."
 
 *Zhixuan Liao, MSBA 22’, Business Intelligence Analyst @ Carnival Cruise Line*
 
 ---
 
-“Thank you for your effort in supporting and backup in students. You always provide consistent support to me even at weekends. I really enjoy your sessions, and I learnt a lot from you. I never imagined that I would have such an amazing and brilliant TA supporting student. Thank you for your patience and love for students. Looking forward to learn more from you in next year!”
+"Thank you for your effort in supporting and backup in students. You always provide consistent support to me even at weekends. I really enjoy your sessions, and I learnt a lot from you. I never imagined that I would have such an amazing and brilliant TA supporting student. Thank you for your patience and love for students. Looking forward to learn more from you in next year!"
 
 *Erica Wan, MSBA 22’, Data Quality Intern @ Barton Associates*
 
 ---
 
-“I just wanted to tell you that I’m thankful for you. You go above and beyond to help us all with not only class assignments but practicum projects and so much more. Your patience and kindness is remarkable. You are truly one of the smartest people I know and I’m grateful to have you as my TA.”
+"I just wanted to tell you that I’m thankful for you. You go above and beyond to help us all with not only class assignments but practicum projects and so much more. Your patience and kindness is remarkable. You are truly one of the smartest people I know and I’m grateful to have you as my TA."
 
 *Khushi Arya, MSBA 23’, Incoming Supply Planning Analyst @ Ralph Lauren*
 
 ---
 
-“He really is a good TA. Respect”
+"He really is a good TA. Respect"
 
 - Quality: 5.0/5.0
 - Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
@@ -81,7 +84,19 @@ Teaching Assistant @ School of Business, Wake Forest University
 
 ---
 
-“I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!”
+"Thank you so much for all your hard work, Yiheng! I really appreciate all your efforts, and thank you for making Professor Ames's courses more manageable. You always responded to our questions and were able to help. Good luck with everything ahead. You have a bright future."
+
+*Jennifer Ontiveros-Olivas, MSBA 23’, Incoming Operations Global Graduate at Reynolds American*
+
+---
+
+"I want to extend my heartfelt gratitude for Yiheng's consistent support throughout our class. His assistance has been invaluable, especially in navigating the complexities of our machine-learning projects and MIMIC Pro simulations. His guidance has not only helped enhance my technical skills but also boosted my confidence in tackling challenging assignments. His readiness to help and share insights has significantly enriched my learning experience, making even the most daunting tasks manageable and more understandable. Thanks once again for being such a reliable and knowledgeable partner!"
+
+*Lauryn Zhai, MSBA 23’*
+
+---
+
+"I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!"
 
 *Dr. Jennifer Claggett, Associate Professor*
 
