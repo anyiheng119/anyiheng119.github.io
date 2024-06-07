@@ -9,6 +9,13 @@ header:
 
 My research falls into two general areas: developing novel tools to improve the study of phenotypes in a high-throughput manner and studying the variation and temporal basis of adaptive traits. Advanced methods such as machine learning, distributed computing, container technology, and computer vision are used throughout my research agenda.
 
+
+## Work in Progress
+
+Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
+
+
+<!-- 
 <nbsp>
 
 {% include base_path %}
@@ -18,3 +25,5 @@ My research falls into two general areas: developing novel tools to improve the 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+-->
