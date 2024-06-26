@@ -7,7 +7,7 @@ author_profile: true
 
 ## Graduate-level Courses from UCLA
 
-*Econometrics, Statistics, and Economic Theory*
+*Statistics, Econometrics, and Economic Theory*
 - Econ 430: Applied Statistics and Econometrics with R and Python, Fall 2020
 - Econ 431: Introduction to Econometrics, Cross-Sectional and Panel Data, and Time Series, Fall 2020
 - Econ 402A: Macroeconomic Theory, Fall 2021
@@ -27,11 +27,11 @@ author_profile: true
 
 ## Undergraduate Courses from Nanjing Agricultural University
 *Mathematics*
-•	Advanced Mathematics I
-•	Advanced Mathematics II
-•	Applied Statistics
-•	Linear Algebra
-•	Probability Theory and Mathematical Statistics
+- Advanced Mathematics I
+- Advanced Mathematics II
+- Applied Statistics
+- Linear Algebra
+- Probability Theory and Mathematical Statistics
 
 *Economics*
 - Microeconomics
