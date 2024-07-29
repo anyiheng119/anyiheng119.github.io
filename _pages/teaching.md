@@ -91,7 +91,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "Exceptionally tech-savvy and incredibly responsible."
 
-*Dr. Jia Li, Associate Professor*
+*Dr. Jia Li, Associate Professor and Robinson-Lightcap Faculty Fellow*
 
 ---
 
@@ -103,19 +103,19 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "I want to extend my heartfelt gratitude for Yiheng's consistent support throughout our class. His assistance has been invaluable, especially in navigating the complexities of our machine-learning projects and MIMIC Pro simulations. His guidance has not only helped enhance my technical skills but also boosted my confidence in tackling challenging assignments. His readiness to help and share insights has significantly enriched my learning experience, making even the most daunting tasks manageable and more understandable. Thanks once again for being such a reliable and knowledgeable partner!"
 
-*Lauryn Zhai, MSBA 23’*
+*Lauryn Zhai, MSBA 23'*
 
 ---
 
 "I just want to take a moment and register a big compliment about Yiheng as he’s fulfilling his role as our Fellow. He has already been a fabulous support this semester to me as I teach Data Management. He’s dependable, he’s fast, he’s kept a lot of student technical headaches off of my desk, and he always has a great attitude. I only wish we could clone him!"
 
-*Dr. Jennifer Claggett, Associate Professor*
+*Dr. Jennifer Claggett, Associate Professor of Management Information Systems*
 
 ---
 
-"He’s the best. Absolutely hard carrying this program. He has helped with everyone’s codes. He deserves to be paid more."
+"He's the best. Absolutely hard carrying this program. He has helped with everyone's codes. He deserves to be paid more."
 
-*Chris Kenney, Economic Development Finance Intern @ Grow America (formerly NDC)*
+*Chris Kenney, MSBA 24', Economic Development Finance Intern @ Grow America (formerly NDC)*
 
 ---
 
@@ -127,17 +127,13 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 ---
 
-Translated from Chinese:
+"It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much! I wish you all the best in achieving your dreams and everything you aspire to!"
 
-"To Yiheng,
+*Shuzhe Wang, MSBA 24'*
 
-It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much!
 
-I wish you all the best in achieving your dreams and everything you aspire to!"
-
+<!-- 
 <div align="center">
     <img src="/images/2024_thank_you_note_2.jpg" alt="Thank You Note" style="width: 80%;">
 </div>
-
-
-*Shuzhe Wang, MSBA 24’*
+-->
