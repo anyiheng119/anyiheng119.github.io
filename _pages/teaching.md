@@ -39,20 +39,25 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 ## Teaching Experience
 
-Teaching Fellow / Assistant @ School of Business, Wake Forest University
-
 *Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Program*
 
-- BAN 6065: Marketing Analytics (Spring 2024, TA for Prof. Jia Li)
-- BAN 6065: Marketing Analytics (Spring 2023, TA for Prof. Jia Li)
-- BAN 6020: Data Management (Fall 2023, TA for Prof. Michael Ames)
-- BAN 6020: Data Management (Fall 2022, TA for Prof. Jennifer Claggett)
-- BAN 6053: Intro to Machine Learning (Fall 2023, TA for Prof. Michael Ames)
-- BAN 6053: Intro to Machine Learning (Fall 2022, TA for Prof. Michael Ames)
-- BAN 6082: Business Analytics Practicum: Foundations (Fall 2023, TA for Prof. Shannon McKeen)
-- BAN 6085: Business Analytics Practicum I: Mess to Structure (Fall 2023, TA for Prof. Shannon McKeen)
-- BAN 6005: Analytics Software Technology (Summer 2023, TA for Prof. Michael Ames)
-- BAN 6057: Process & Supply Chain Analytics (Spring 2023, TA for Prof. Scott Shafer)
+**Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
+
+- BAN 6005: Analytics Software Technology (Summer 2024, Prof. Justin Martin)
+
+
+**Teaching Fellow / Assistant** @ School of Business, Wake Forest University, Winston Salem, NC
+
+- BAN 6065: Marketing Analytics (Spring 2024, Prof. Jia Li)
+- BAN 6065: Marketing Analytics (Spring 2023, Prof. Jia Li)
+- BAN 6020: Data Management (Fall 2023, Prof. Michael Ames)
+- BAN 6020: Data Management (Fall 2022, Prof. Jennifer Claggett)
+- BAN 6053: Intro to Machine Learning (Fall 2023, Prof. Michael Ames)
+- BAN 6053: Intro to Machine Learning (Fall 2022, Prof. Michael Ames)
+- BAN 6082: Business Analytics Practicum: Foundations (Fall 2023, Prof. Shannon McKeen)
+- BAN 6085: Business Analytics Practicum I: Mess to Structure (Fall 2023, Prof. Shannon McKeen)
+- BAN 6005: Analytics Software Technology (Summer 2023, Prof. Michael Ames)
+- BAN 6057: Process & Supply Chain Analytics (Spring 2023, Prof. Scott Shafer)
 
 
 ## Selected Comments
