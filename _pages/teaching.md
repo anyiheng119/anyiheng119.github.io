@@ -43,7 +43,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 **Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
 
-- BAN 6005: Analytics Software Technology (Summer 2024, Prof. Justin Martin)
+- BAN 6005: Python Programming for Business Analytics (Summer 2024, Co-taught with Prof. Justin Martin)
 
 
 **Teaching Fellow / Assistant** @ School of Business, Wake Forest University, Winston Salem, NC
