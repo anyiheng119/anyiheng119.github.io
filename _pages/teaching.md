@@ -76,7 +76,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "I just wanted to tell you that I’m thankful for you. You go above and beyond to help us all with not only class assignments but practicum projects and so much more. Your patience and kindness is remarkable. You are truly one of the smartest people I know and I’m grateful to have you as my TA."
 
-*Khushi Arya, MSBA 23’, Incoming Supply Planning Analyst @ Ralph Lauren*
+*Khushi Arya, MSBA 23', Strategy and Supply Planning Analyst @ Ralph Lauren*
 
 ---
 
@@ -91,19 +91,19 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "Exceptionally tech-savvy and incredibly responsible."
 
-*Dr. Jia Li, Associate Professor and Robinson-Lightcap Faculty Fellow*
+*Dr. Jia Li, Associate Professor of Marketing*
 
 ---
 
 "Thank you so much for all your hard work, Yiheng! I really appreciate all your efforts, and thank you for making Professor Ames's courses more manageable. You always responded to our questions and were able to help. Good luck with everything ahead. You have a bright future."
 
-*Jennifer Ontiveros-Olivas, MSBA 23’, Incoming Operations Global Graduate @ Reynolds American*
+*Jennifer Ontiveros-Olivas, MSBA 23', Incoming Operations Global Graduate @ Reynolds American*
 
 ---
 
 "I want to extend my heartfelt gratitude for Yiheng's consistent support throughout our class. His assistance has been invaluable, especially in navigating the complexities of our machine-learning projects and MIMIC Pro simulations. His guidance has not only helped enhance my technical skills but also boosted my confidence in tackling challenging assignments. His readiness to help and share insights has significantly enriched my learning experience, making even the most daunting tasks manageable and more understandable. Thanks once again for being such a reliable and knowledgeable partner!"
 
-*Lauryn Zhai, MSBA 23'*
+*Lauryn Zhai, MSBA 23', Demand Planning Analyst @ Honda Aircraft Company*
 
 ---
 
@@ -119,18 +119,17 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 ---
 
+"It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much! I wish you all the best in achieving your dreams and everything you aspire to!"
+
+*Shuzhe Wang, MSBA 24'*
+
+---
+
 <div align="center">
     <img src="/images/2024_thank_you_note.jpg" alt="Thank You Note" style="width: 80%;">
 </div>
 
 *Thank You Note from MSBA Class of 2024*
-
----
-
-"It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much! I wish you all the best in achieving your dreams and everything you aspire to!"
-
-*Shuzhe Wang, MSBA 24'*
-
 
 <!-- 
 <div align="center">
