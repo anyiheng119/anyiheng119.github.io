@@ -68,13 +68,13 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "Yiheng joined Wake Forest University as a fellow in July 2022 and has since proven invaluable to our students. He has provided outstanding support across various fields, including machine learning, supply chain, and marketing. Yiheng’s patient and knowledgeable approach was instrumental in helping us successfully complete our practicum project using the cohort analysis method. His hardworking nature and willingness to assist students with any problem related to job search or academics are genuinely commendable. I highly recommend Yiheng to anyone seeking a dedicated and knowledgeable colleague."
 
-*Zhixuan Liao, MSBA 22’, Business Intelligence Analyst @ Carnival Cruise Line*
+*Zhixuan Liao, MSBA 22', Business Intelligence Analyst @ Carnival Cruise Line*
 
 ---
 
 "Thank you for your effort in supporting and backup in students. You always provide consistent support to me even at weekends. I really enjoy your sessions, and I learnt a lot from you. I never imagined that I would have such an amazing and brilliant TA supporting student. Thank you for your patience and love for students. Looking forward to learn more from you in next year!"
 
-*Erica Wan, MSBA 22’, Data Quality Intern @ Barton Associates*
+*Erica Wan, MSBA 22', Data Quality Intern @ Barton Associates*
 
 ---
 
@@ -89,7 +89,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
 - Quality: 5.0/5.0
 - Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
 
-*Anonymous student from BAN6053, [RateMyProfessors.com - Yiheng An](https://www.ratemyprofessors.com/professor/2995317)*
+*Anonymous student from BAN6053, <a href="https://www.ratemyprofessors.com/professor/2995317" target="_blank">RateMyProfessors.com - Yiheng An</a>
 
 ---
 

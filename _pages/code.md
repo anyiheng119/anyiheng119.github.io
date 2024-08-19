@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Clients"
-permalink: /clients/
+title: "Data & Code"
+permalink: /code/
 author_profile: true
 ---
 
