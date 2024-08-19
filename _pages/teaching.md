@@ -39,7 +39,8 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 ## Teaching Experience
 
-*Graduate-level Courses for the Master of Science in Business Analytics (MSBA) Program @ WFU*
+*Graduate-level Courses for the <a href="https://business.wfu.edu/masters-in-business-analytics/" target="_blank">Master of Science in Business Analytics (MSBA) Program</a> @ Wake Forest University*
+
 
 **Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
 
