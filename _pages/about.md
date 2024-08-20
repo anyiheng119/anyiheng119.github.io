@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a Fellow at the [Center for Analytics Impact](https://business.wfu.edu/center-for-analytics-impact/) at the School of Business, Wake Forest University, and a Visiting Research Fellow at Alibaba Group. I earned my Master's degree in Quantitative Economics from UCLA, where I also obtained a Graduate Certificate in Data Science. Prior to that, I completed my undergraduate studies in Economics at Nanjing Agricultural University in China.
 
-I am an Fellow at the [Center for Analytics Impact](https://business.wfu.edu/center-for-analytics-impact/), Wake Forest University School of Business. My research interests include quantitative marketing, AI and Machine Learning in Marketing. My current focus is on the intersection of marketing, data science, and decision science. Beyond my studies, I love traveling and exploring new places.
+My research interests center on Quantitative Marketing, AI and Machine Learning in Marketing.I am particularly interested in studying algorithms that drive large-scale automated decision-making, including decision-focused machine learning and causal machine learning. In my doctoral studies, I look forward to crafting research at the intersection of Marketing, Data Science, and Decision Science. Beyond my academic work, I enjoy traveling and exploring new places.
+
 
 # Education
 - Master's, Econometrics and Quantitative Economics, University of California, Los Angeles (UCLA), 2022 

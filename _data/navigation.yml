@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Background"
-    url: /background/
+  - title: "Home"
+    url: /home/
 
   # - title: "Extension"
   #   url: /extension/
