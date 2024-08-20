@@ -12,11 +12,11 @@ I am currently a Fellow at the [Center for Analytics Impact](https://business.wf
 
 My research interests center on Quantitative Marketing, AI and Machine Learning in Marketing.I am particularly interested in studying algorithms that drive large-scale automated decision-making, including decision-focused machine learning and causal machine learning. In my doctoral studies, I look forward to crafting research at the intersection of Marketing, Data Science, and Decision Science. Beyond my academic work, I enjoy traveling and exploring new places.
 
-
+<!-- 
 # Education
 - Master's, Econometrics and Quantitative Economics, University of California, Los Angeles (UCLA), 2022 
 - Bachelor's, International Economics and Trade, Nanjing Agricultural University, 2020
-
+ -->
 
 <!-- 
 Welcome! My life has taught me that growth often comes from discomfort. I embrace this by seeking out challenges that push me beyond my perceived limits. This approach has allowed me to develop a diverse set of transdisciplinary skills. Today, I am a hybrid: part plant scientist, part data scientist. My current focus is on the intersection of marketing, machine learning, and decision science. 
