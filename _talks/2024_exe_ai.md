@@ -24,9 +24,10 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
 </div>
 
 
+
 # School of Business Newsroom
 
-[the Newsroom: Center for Analytics Impact Hosts AI Roundtable and Executive Forum](https://business.wfu.edu/newsroom/center-for-analytics-impact-ai-roundtable/)
+<a href="https://business.wfu.edu/newsroom/center-for-analytics-impact-ai-roundtable/" target="_blank">Center for Analytics Impact Hosts AI Roundtable and Executive Forum</a>
 
 
 # Selected Comments
