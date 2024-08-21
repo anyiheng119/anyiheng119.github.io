@@ -22,3 +22,21 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
 <div align="center">
   <img src='/images/talks/2024_exe_ai.png' style='width:60%;' >
 </div>
+
+
+# School of Business Newsroom
+
+[the Newsroom: Center for Analytics Impact Hosts AI Roundtable and Executive Forum](https://business.wfu.edu/newsroom/center-for-analytics-impact-ai-roundtable/)
+
+
+# Selected Comments
+
+"The session on AI presented by Shannon McKeen, Mike Ames and Yiheng An, was informative and engaging as evidenced by the great discussion it generated with our Practicum Partners from Deloitte, The Winston-Salem Fire Department, Merchant Distributors, and SAS." 
+
+*Dr. Jeffrey D. Camm, Senior Associate Dean for Faculty and Research, School of Business*
+
+---
+
+"The session triggered insightful discussions in the audience, consisting of industry partners and Wake faculty, staff, and students. The demonstration of text-to-image models using DALL-E was also particularly interesting. Overall, it was a valuable experience that highlighted the potential role of AI in shaping the future of business."
+
+*Dr. Pelin Pekgun, Professor of Analytics*
