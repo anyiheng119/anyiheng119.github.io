@@ -20,17 +20,17 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
 
 
 <div align="center">
-  <img src='/images/talks/2024_exe_ai.png' style='width:60%;' >
+  <img src='/images/talks/2024_exe_ai.png' style='width:50%;' >
 </div>
 
 
 
-# School of Business Newsroom
+## School of Business Newsroom
 
 <a href="https://business.wfu.edu/newsroom/center-for-analytics-impact-ai-roundtable/" target="_blank">Center for Analytics Impact Hosts AI Roundtable and Executive Forum</a>
+<br>
 
-
-# Selected Comments
+## Selected Comments
 
 "The session on AI presented by Shannon McKeen, Mike Ames and Yiheng An, was informative and engaging as evidenced by the great discussion it generated with our Practicum Partners from Deloitte, The Winston-Salem Fire Department, Merchant Distributors, and SAS." 
 
