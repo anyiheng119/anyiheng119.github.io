@@ -13,19 +13,19 @@ I am currently a Fellow at the [Center for Analytics Impact](https://business.wf
 
 My research interests center on Quantitative Marketing, AI and Machine Learning in Marketing.I am particularly interested in studying algorithms that drive large-scale automated decision-making, including decision-focused machine learning and causal machine learning. In my doctoral studies, I look forward to crafting research at the intersection of Marketing, Data Science, and Decision Science. Beyond my academic work, I enjoy traveling and exploring new places.
 
-# Education
+## Education
 
-**Master's, Quantitative Economics**, 2022  
+**Master's**, *Quantitative Economics*, 2022  
 University of California, Los Angeles
 
-**Bachelor's, International Economics and Trade**, 2020  
+**Bachelor's**, *International Economics and Trade*, 2020  
 Nanjing Agricultural University, China
 
 
-# Academic & Professional Journey
+## Academic & Professional Journey
 
-<div align="center">
-  <img src='/images/Journey_Yiheng.png' style='width:80%;' >
+<div align="left">
+  <img src='/images/Journey_Yiheng.png' style='width:100%;' >
 </div>
 
 
