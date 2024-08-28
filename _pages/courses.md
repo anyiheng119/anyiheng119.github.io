@@ -5,6 +5,8 @@ permalink: /courses/
 author_profile: true
 ---
 
+I have taken many interesting courses at UCLA, Nanjing Agricultural University, and Coursera.
+
 ## Graduate-level Courses from UCLA
 
 *Statistics, Econometrics, and Economic Theory*
