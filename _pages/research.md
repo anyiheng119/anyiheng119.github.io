@@ -9,10 +9,20 @@ header:
 
 My research falls into two general areas: developing novel tools to improve the study of phenotypes in a high-throughput manner and studying the variation and temporal basis of adaptive traits. Advanced methods such as machine learning, distributed computing, container technology, and computer vision are used throughout my research agenda.
 
-
+<!-- 
 ## Work in Progress
 
+Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal 
+Learning 
+
 Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
+-->
+
+## Research Presentations
+**Yiheng An** and Jia Li (2024). "Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal Learning" Talk given at *School of Business, Wake Forest University* in Winston Salem, NC.
+
+**Yiheng An** and Jia Li (2024). "Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal Learning" Talk given virtually at *Alibaba Group*.
+
 
 
 <!-- 
