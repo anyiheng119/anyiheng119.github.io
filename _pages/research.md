@@ -19,10 +19,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 -->
 
 ## Research Presentations
-**Yiheng An** and Jia Li (2024). "Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal Learning" Talk given at *School of Business, Wake Forest University* in Winston Salem, NC.
-
-**Yiheng An** and Jia Li (2024). "Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal Learning" Talk given virtually at *Alibaba Group*.
-
+**Yiheng An**, Jia Li, Jeffrey D. Camm (2024). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Talk given at *School of Business, Wake Forest University* in Winston Salem, NC.
 
 
 <!-- 
