@@ -24,7 +24,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ## Work in Progress
 
-Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics
+### Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics
 
 **Yiheng An**, <a href="https://business.wfu.edu/directory/jia-li/" target="_blank">Jia Li (Wake Forest University)</a>, <a href="https://business.wfu.edu/directory/jeff-camm/" target="_blank">Jeffrey D. Camm (Wake Forest University)</a>
 
