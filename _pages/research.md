@@ -26,7 +26,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ### Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics
 
-**Yiheng An**, <a href="https://business.wfu.edu/directory/jia-li/" target="_blank">Jia Li (Wake Forest University)</a>, <a href="https://business.wfu.edu/directory/jeff-camm/" target="_blank">Jeffrey D. Camm (Wake Forest University)</a>
+**Yiheng An**, <a href="https://business.wfu.edu/directory/jia-li/" target="_blank">Jia Li</a>(Wake Forest University), <a href="https://business.wfu.edu/directory/jeff-camm/" target="_blank">Jeffrey D. Camm</a>(Wake Forest University)
 
 ***Abstract*** Employee incentive compensation design, such as bonuses and commissions, is among the most important business decisions. However, traditional incentive plans often rely on static, predefined criteria, lacking customization and potentially leading to suboptimal business outcomes. In this study, we design a “smart” data-driven bonus system that uses machine learning (ML) and analytics to distribute targeted bonuses in real-time under budget constraints within a dynamic service environment. By integrating causal ML, predictive analytics, and prescriptive analytics, our system provides near-optimal bonus recommendations that account for critical contextual factors and service uncertainties.
 
