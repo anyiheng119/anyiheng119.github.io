@@ -50,7 +50,7 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
       <section>
         <h2>Presentation Slides (My Part)</h2>
         <iframe src="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/preview" allow="autoplay"></iframe><br />
-        <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_blank">Download the Slides.</a><br />
+        <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_blank">Download</a><br />
       </section>
     </div>
   </body>
@@ -65,10 +65,10 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
 
 "The session on AI presented by Shannon McKeen, Mike Ames and Yiheng An, was informative and engaging as evidenced by the great discussion it generated with our Practicum Partners from Deloitte, The Winston-Salem Fire Department, Merchant Distributors, and SAS." 
 
-*Dr. Jeffrey D. Camm, Senior Associate Dean for Faculty and Research, School of Business*
+*Dr. Jeffrey D. Camm, Senior Associate Dean for Faculty and Research, School of Business, Wake Forest University*
 
 ---
 
 "The session triggered insightful discussions in the audience, consisting of industry partners and Wake faculty, staff, and students. The demonstration of text-to-image models using DALL-E was also particularly interesting. Overall, it was a valuable experience that highlighted the potential role of AI in shaping the future of business."
 
-*Dr. Pelin Pekgun, Professor of Analytics*
+*Dr. Pelin Pekgun, Professor of Analytics, School of Business, Wake Forest University*
