@@ -54,7 +54,6 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
         <iframe src="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" allow="autoplay"></iframe><br />
         <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_self">Download the Slides.</a><br />
       </section>
-
     </div>
   </body>
 </html>
