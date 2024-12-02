@@ -23,9 +23,7 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
   <img src='/images/talks/2024_exe_ai.png' style='width:50%;' >
 </div>
 
-## Slides
 
-<!DOCTYPE html>
 <html>
   <head>
     <style>
