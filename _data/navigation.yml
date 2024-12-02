@@ -18,11 +18,11 @@ main:
   - title: "Talks"
     url: /talks/ 
 
-  - title: "Data & Code"
-    url: /code/ 
+#  - title: "Data & Code"
+#    url: /code/ 
     
- # - title: "Publications"
- #   url: /publications/
+# - title: "Publications"
+#   url: /publications/
 
 # - title: "Blog"
 #   url: /posts/
