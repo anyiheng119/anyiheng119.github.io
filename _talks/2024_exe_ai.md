@@ -23,7 +23,41 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
   <img src='/images/talks/2024_exe_ai.png' style='width:50%;' >
 </div>
 
+## Slides
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      section {
+        flex: 1;
+      }
+      iframe {
+        width: 100%;
+        height: 69vh;
+      }
+      @media (max-width: 600px) {
+        .container {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <section>
+        <h2>Presentation Slides (My Part)</h2>
+        <iframe src="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" allow="autoplay"></iframe><br />
+        <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_self">Download the Slides.</a><br />
+      </section>
+
+    </div>
+  </body>
+</html>
 
 ## School of Business Newsroom
 
