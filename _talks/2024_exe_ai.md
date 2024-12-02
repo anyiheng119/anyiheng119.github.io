@@ -51,8 +51,8 @@ AI Advice for Executive: What to know and thoughts on how to stay on top of AI t
     <div class="container">
       <section>
         <h2>Presentation Slides (My Part)</h2>
-        <iframe src="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" allow="autoplay"></iframe><br />
-        <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_self">Download the Slides.</a><br />
+        <iframe src="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/preview" allow="autoplay"></iframe><br />
+        <a href="https://drive.google.com/file/d/1S6LZ8IZNTvlhVZbVAxSEg98813l8PK1B/view?usp=sharing" target="_blank">Download the Slides.</a><br />
       </section>
     </div>
   </body>
