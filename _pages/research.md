@@ -61,7 +61,8 @@ Off-policy evaluation indicates that our solution can increase customer satisfac
     <div class="container">
       <section>
         <h2>Presentation Slides</h2>
-        <iframe src="https://drive.google.com/file/d/1NwNRLB3NA4xGjwwM4oDDnahRXfFoK01R/preview" allow="autoplay"></iframe><br />
+        <iframe src="https://drive.google.com/file/d/1hiiiMhUJLaQeNbp_kx7HSLGegslGDdOa/preview" allow="autoplay"></iframe><br />
+        <a href="https://drive.google.com/file/d/1hiiiMhUJLaQeNbp_kx7HSLGegslGDdOa/view?usp=drive_link" target="_blank">Download</a><br />
       </section>
     </div>
   </body>
