@@ -42,6 +42,11 @@ These goals reflect my dedication to fostering a productive and supportive educa
 *Graduate-level Courses for the <a href="https://business.wfu.edu/masters-in-business-analytics/" target="_blank">Master of Science in Business Analytics (MSBA) Program</a> @ Wake Forest University*
 
 
+<div align="center">
+  <img src='/images/wfu_classroom.jpg' style='width:60%;' >
+</div>
+
+
 **Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
 
 - BAN 6005: Python Programming for Business Analytics (Summer 2024)
