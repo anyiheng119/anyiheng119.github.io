@@ -43,7 +43,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 
 <div align="center">
-  <img src='/images/wfu_classroom.jpg' style='width:60%;' >
+  <img src='/images/wfu_classroom.jpg' style='width:40%;' >
 </div>
 
 
