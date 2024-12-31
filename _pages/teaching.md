@@ -33,6 +33,11 @@ The second goal is to serve as a reliable partner to teaching faculty to enhance
 
 My commitment to these practices is rooted in my aspiration to become an impactful business educator, driven by a strong work ethic, a genuine willingness to help, and a sense of fulfillment.
 
+<div align="center">
+  <img src='/images/wfu_classroom.jpg' style='width:40%;' >
+</div>
+
+
 <!-- 
 These goals reflect my dedication to fostering a productive and supportive educational experience for both students and faculty.
 -->
@@ -40,11 +45,6 @@ These goals reflect my dedication to fostering a productive and supportive educa
 ## Teaching Experience
 
 *Graduate-level Courses for the <a href="https://business.wfu.edu/masters-in-business-analytics/" target="_blank">Master of Science in Business Analytics (MSBA) Program</a> @ Wake Forest University*
-
-
-<div align="center">
-  <img src='/images/wfu_classroom.jpg' style='width:40%;' >
-</div>
 
 
 **Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
