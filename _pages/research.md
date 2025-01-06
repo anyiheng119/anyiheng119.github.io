@@ -21,6 +21,8 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ## Research Presentations
 
+**Yiheng An**, Jia Li, Jeffrey D. Camm (2025). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Invited talk at the *35th Annual POMS Conference* in Atlanta, GA.
+
 **Yiheng An**, Jia Li, Jeffrey D. Camm (2025). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Accepted talk at the *54th Annual Meeting of Southeast Decision Sciences Institute* in Greenville, SC.
 
 **Yiheng An**, Jia Li, Jeffrey D. Camm (2024). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Talk given at *School of Business, Wake Forest University* in Winston Salem, NC.
