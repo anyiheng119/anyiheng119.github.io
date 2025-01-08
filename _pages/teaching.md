@@ -49,15 +49,17 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 **Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
 
-- BAN 6005: Python Programming for Business Analytics (Summer 2024)
-  - Co-taught with Prof. Justin Martin
+- BAN 6005: Python Programming for Business Analytics (Summer 2024, Prof. Justin Martin)
+  - Taught Lab Sessions for a six-week summer course covering the foundations of Python programming
+  - Covered 48% of instructional duties, leading 11 out of 23 scheduled classes 
   - Six-week summer course covering the foundations of Python programming
   - <a href="https://drive.google.com/file/d/1EenI3Q7TgJ9U8prClfr9B9c0wgaEyz5R/view?usp=sharing" target="_blank">Syllabus & Course Schedule</a>
   - <a href="https://drive.google.com/drive/folders/1WMc-A6Gpr4WkgNYauI1IgJstuakfrlI0?usp=sharing" target="_blank">Lab Sessions Code</a>
 
 
 **Teaching Fellow / Assistant** @ School of Business, Wake Forest University, Winston Salem, NC
-
+- MGT 8133: Business Analytics* (Spring 2025, Prof. Jia Li) 
+- BAN 6065: Marketing Analytics (Spring 2025, Prof. Jia Li)
 - BAN 6065: Marketing Analytics (Spring 2024, Prof. Jia Li)
 - BAN 6065: Marketing Analytics (Spring 2023, Prof. Jia Li)
 - BAN 6020: Data Management (Fall 2023, Prof. Michael Ames)
@@ -69,6 +71,12 @@ These goals reflect my dedication to fostering a productive and supportive educa
 - BAN 6005: Analytics Software Technology (Summer 2023, Prof. Michael Ames)
 - BAN 6057: Process & Supply Chain Analytics (Spring 2023, Prof. Scott Shafer)
 
+
+**Grader**
+- OPS 8169: Operations Management* (Summer 2023, Prof. Scott Shafer)
+- BAN 6080: Financial and Risk Analysis (Spring 2023, Prof. Stephan Shipe) 
+
+*PS: Courses marked with an asterisk (\*) are MBA courses; all others are MSBA courses.*
 
 ## Selected Comments
 
