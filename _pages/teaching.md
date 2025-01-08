@@ -27,11 +27,11 @@ author_profile: true
 
 I shape my role as a Teaching Fellow around two central goals.
 
-My first goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like Office Hours and Q&A Sessions, I facilitate hands-on learning through group working sessions, live-coding and debugging sessions, and tutorial workshops. My approach emphasizes problem-solving, aiming to equip students with the tools and guidance they need to precisely identify and independently tackle issues, rather than just providing answers and solutions.
+My first goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like Office Hours and Q&A Sessions, I facilitate hands-on learning through group working sessions, live-coding and debugging sessions, and tutorial workshops. My approach emphasizes problem-solving, aiming to equip students with the tools and guidance they need to precisely identify and independently tackle issues, rather than simply offering answers or solutions.
 
-The second goal is to serve as a reliable partner to teaching faculty to enhance the overall educational experience. I strive to understand the underlying purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves effective communication, collaborative planning, and proactively addressing changes to ensure that our efforts are synchronized and contribute positively to the students' learning outcomes.
+The second goal is to serve as a reliable partner to teaching faculty to enhance the overall educational experience. I strive to understand the broader purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves effective communication, collaborative planning, and proactively addressing changes to ensure that our efforts are synchronized and contribute positively to the students' learning outcomes.
 
-My commitment to these practices is rooted in my aspiration to become an impactful business educator, driven by a strong work ethic, a genuine willingness to help, and a sense of fulfillment.
+This philosophy reflects my aspiration to become an impactful business educator. My dedication is rooted in a strong work ethic, a genuine desire to help, and the fulfillment I find in contributing to others’ growth and success.
 
 <div align="center">
   <img src='/images/wfu_classroom.jpg' style='width:40%;' >
@@ -44,10 +44,8 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 ## Teaching Experience
 
-*Graduate-level Courses for the <a href="https://business.wfu.edu/masters-in-business-analytics/" target="_blank">Master of Science in Business Analytics (MSBA) Program</a> @ Wake Forest University*
 
-
-**Lab Instructor** @ School of Business, Wake Forest University, Winston Salem, NC
+**Lab Instructor** @ School of Business, Wake Forest University
 
 - BAN 6005: Python Programming for Business Analytics (Summer 2024, Prof. Justin Martin)
   - Taught Lab Sessions for a six-week summer course covering the foundations of Python programming
@@ -57,7 +55,7 @@ These goals reflect my dedication to fostering a productive and supportive educa
   - <a href="https://drive.google.com/drive/folders/1WMc-A6Gpr4WkgNYauI1IgJstuakfrlI0?usp=sharing" target="_blank">Lab Sessions Code</a>
 
 
-**Teaching Fellow / Assistant** @ School of Business, Wake Forest University, Winston Salem, NC
+**Teaching Fellow / Assistant** @ School of Business, Wake Forest University
 - MGT 8133: Business Analytics* (Spring 2025, Prof. Jia Li) 
 - BAN 6065: Marketing Analytics (Spring 2025, Prof. Jia Li)
 - BAN 6065: Marketing Analytics (Spring 2024, Prof. Jia Li)
@@ -72,11 +70,12 @@ These goals reflect my dedication to fostering a productive and supportive educa
 - BAN 6057: Process & Supply Chain Analytics (Spring 2023, Prof. Scott Shafer)
 
 
-**Grader**
+**Grader** @ School of Business, Wake Forest University
 - OPS 8169: Operations Management* (Summer 2023, Prof. Scott Shafer)
 - BAN 6080: Financial and Risk Analysis (Spring 2023, Prof. Stephan Shipe) 
 
-*PS: Courses marked with an asterisk (\*) are MBA courses; all others are MSBA courses.*
+*PS: Courses marked with an asterisk (\*) are MBA courses; all others are <a href="https://business.wfu.edu/masters-in-business-analytics/" target="_blank">Master of Science in Business Analytics (MSBA)</a> courses.*
+
 
 ## Selected Comments
 
