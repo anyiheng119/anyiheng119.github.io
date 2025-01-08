@@ -27,20 +27,17 @@ author_profile: true
 
 I shape my role as a Teaching Fellow around two central goals.
 
-My first goal is to ensure students can grasp and master the material presented by the professor. I recognize that students have varied learning styles, and I accommodate these differences by employing diverse instructional approaches. In addition to traditional techniques like Office Hours and Q&A Sessions, I facilitate hands-on learning through group working sessions, live-coding and debugging sessions, and tutorial workshops. My approach emphasizes problem-solving, aiming to equip students with the tools and guidance they need to precisely identify and independently tackle issues, rather than simply offering answers or solutions.
+My primary goal is to ensure that students can fully grasp and master the material presented by the professor. Recognizing that students have varied learning styles, I employ diverse instructional approaches to accommodate these differences. Alongside traditional techniques such as office hours and Q&A sessions, I facilitate hands-on learning through group work, live coding and debugging sessions, and tutorial workshops. My approach prioritizes problem-solving, equipping students with the tools and guidance to precisely identify and independently address challenges, rather than simply providing answers or solutions.
 
-The second goal is to serve as a reliable partner to teaching faculty to enhance the overall educational experience. I strive to understand the broader purposes behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves effective communication, collaborative planning, and proactively addressing changes to ensure that our efforts are synchronized and contribute positively to the students' learning outcomes.
+Equally important is my role as a reliable partner to teaching faculty. I strive to understand the broader goals behind the professor's needs and tasks, ensuring alignment with their teaching objectives. This involves clear communication, collaborative planning, and proactively addressing changes to ensure that our efforts are synchronized and contribute positively to students' overall learning outcomes.
 
-This philosophy reflects my aspiration to become an impactful business educator. My dedication is rooted in a strong work ethic, a genuine desire to help, and the fulfillment I find in contributing to others’ growth and success.
+This philosophy reflects my aspiration to become an impactful business educator. My commitment is driven by a strong work ethic, a genuine desire to support others, and the fulfillment I find in contributing to the growth and success of students.
 
 <div align="center">
   <img src='/images/wfu_classroom.jpg' style='width:40%;' >
 </div>
 
 
-<!-- 
-These goals reflect my dedication to fostering a productive and supportive educational experience for both students and faculty.
--->
 
 ## Teaching Experience
 
@@ -132,13 +129,13 @@ These goals reflect my dedication to fostering a productive and supportive educa
 
 "He's the best. Absolutely hard carrying this program. He has helped with everyone's codes. He deserves to be paid more."
 
-*Chris Kenney, MSBA 24', Economic Development Finance Intern @ Grow America (formerly NDC)*
+*Chris Kenney, MSBA 24', Finanical Planning & Analysis Analyst @ Manhattan Beer Distributors*
 
 ---
 
 "It has been a pleasure knowing you during my graduate studies. I truly appreciate your patience, understanding, and help with all my questions. Thank you so much! I wish you all the best in achieving your dreams and everything you aspire to!"
 
-*Shuzhe Wang, MSBA 24'*
+*Shuzhe Wang, MSBA 24', Marketing Analyst @ Oversea Distillery*
 
 ---
 
