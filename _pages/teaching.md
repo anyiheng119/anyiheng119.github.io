@@ -117,7 +117,7 @@ This philosophy reflects my aspiration to become an impactful business educator.
 
 "I want to extend my heartfelt gratitude for Yiheng's consistent support throughout our class. His assistance has been invaluable, especially in navigating the complexities of our machine-learning projects and MIMIC Pro simulations. His guidance has not only helped enhance my technical skills but also boosted my confidence in tackling challenging assignments. His readiness to help and share insights has significantly enriched my learning experience, making even the most daunting tasks manageable and more understandable. Thanks once again for being such a reliable and knowledgeable partner!"
 
-*Lauryn Zhai, MSBA 24', Demand Planning Analyst @ Honda Aircraft Company*
+*Lauryn Zhai, MSBA 24', Corporate Planning Analyst @ Honda Aircraft Company*
 
 ---
 
