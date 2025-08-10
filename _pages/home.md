@@ -25,7 +25,7 @@ Nanjing Agricultural University, China
 ## Academic & Professional Journey
 
 <div align="left">
-  <img src='/images/Journey_Yiheng.png' style='width:80%;' >
+  <img src='/images/Journey_YA.png' style='width:80%;' >
 </div>
 
 
