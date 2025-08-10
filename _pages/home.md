@@ -26,7 +26,7 @@ Nanjing Agricultural University, China
 
 
 <div align="left">
-  <img src='/images/Journey_YA.png' style='width:80%;' >
+  <img src='/images/Journey_YA.png' style='width:85%;' >
 </div>
 
 
