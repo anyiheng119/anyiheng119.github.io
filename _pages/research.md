@@ -19,6 +19,12 @@ Learning
 Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 -->
 
+## Conference Proceedings (Peer-reviewed)
+
+"IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations," 2025. 
+ **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. The 3rd Workshop on Causal Inference and Machine Learning in Practice at the 31st ACM ***SIGKDD*** Conference on Knowledge Discovery and Data Mining.
+
+
 ## Research Presentations
 
 **Yiheng An**, Jia Li, Jeffrey D. Camm (2025). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Invited talk at the *35th Annual POMS Conference* in Atlanta, GA.
