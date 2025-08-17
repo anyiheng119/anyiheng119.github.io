@@ -40,10 +40,10 @@ Welcome to my photo gallery. Replace these sample images with your own photograp
 
 figure {
   margin: 0;
+  text-align: center;
 }
 
 figcaption {
-  text-align: center;
   left: 50%;
   margin-top: 0.5rem;
   font-size: 0.9rem;
