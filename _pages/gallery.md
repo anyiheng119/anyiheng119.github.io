@@ -43,6 +43,7 @@ figure {
 }
 
 figcaption {
+  position: absolute;
   text-align: center;
   left: 50%;
   margin-top: 0.5rem;
