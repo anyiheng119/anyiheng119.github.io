@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "<p align='center'><font size='+3'><b>Gallery</b></font></p>"
+title: "Gallery"
 permalink: /gallery/
-author_profile: false
+author_profile: true
 ---
 
 Welcome to my photo gallery. Replace these sample images with your own photographs.
