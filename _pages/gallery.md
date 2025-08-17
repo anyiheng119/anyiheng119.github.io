@@ -7,6 +7,7 @@ author_profile: true
 
 Welcome to my photo gallery. Replace these sample images with your own photographs.
 
+
 <div class="gallery">
   <figure>
     <img src="https://picsum.photos/id/1025/600/400" alt="Puppy">
@@ -25,17 +26,22 @@ Welcome to my photo gallery. Replace these sample images with your own photograp
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(3, 1fr); /* fixed 3 columns */
   gap: 1rem;
 }
+
 .gallery img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 1 / 1; /* make it square */
+  object-fit: cover;   /* crop to fit the square */
   display: block;
+  border-radius: 6px; /* optional for rounded corners */
 }
+
 figure {
   margin: 0;
 }
+
 figcaption {
   text-align: center;
   margin-top: 0.5rem;
