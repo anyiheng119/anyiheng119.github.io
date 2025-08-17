@@ -26,7 +26,7 @@ Welcome to my photo gallery. Replace these sample images with your own photograp
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* fixed 3 columns */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* fixed 3 columns */
   gap: 1rem;
 }
 
