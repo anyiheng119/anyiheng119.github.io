@@ -5,22 +5,23 @@ permalink: /gallery/
 author_profile: true
 ---
 
-Welcome to my photo gallery. Replace these sample images with your own photographs.
-
+I love exploring new places — each journey gives me space to reflect, imagine, and see the world from fresh perspectives.
 
 <div class="gallery">
-  <figure>
+  <div class="gallery-item">
     <img src="/images/gallery/Tampa.jpg" alt="Tampa">
-    <figcaption>Tampa, FL – July 2025</figcaption>
-  </figure>
-  <figure>
+    <div class="caption">Tampa, FL – July 2025</div>
+  </div>
+
+  <div class="gallery-item">
     <img src="/images/gallery/Dallas.jpg" alt="Dallas">
-    <figcaption>Dallas, TX – April 2023</figcaption>
-  </figure>
-  <figure>
+    <div class="caption">Dallas, TX – April 2023</div>
+  </div>
+
+  <div class="gallery-item">
     <img src="/images/gallery/Charlotte.jpg" alt="Charlotte">
-    <figcaption>Charlotte, NC – Auguest 2022</figcaption>
-  </figure>
+    <div class="caption">Charlotte, NC – Auguest 2022</div>
+  </div>
 </div>
 
 <style>
@@ -44,7 +45,6 @@ figure {
 }
 
 figcaption {
-  left: 50%;
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #555;
