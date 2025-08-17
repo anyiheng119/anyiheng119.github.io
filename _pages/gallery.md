@@ -31,16 +31,13 @@ I love exploring new places — each journey gives me space to reflect, imagine,
   gap: 1rem;
 }
 
-.gallery img {
+.gallery-item {
+  text-align: center; /* centers everything inside, including .caption */
   width: 100%;
   aspect-ratio: 1 / 1; /* make it square */
   object-fit: cover;   /* crop to fit the square */
   display: block;
   border-radius: 6px; /* optional for rounded corners */
-}
-
-.gallery-item {
-  text-align: center; /* centers everything inside, including .caption */
 }
 
 figure {
