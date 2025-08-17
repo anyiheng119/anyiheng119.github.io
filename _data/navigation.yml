@@ -18,8 +18,8 @@ main:
   - title: "Talks"
     url: /talks/ 
 
-#  - title: "Data & Code"
-#    url: /code/ 
+  - title: "Gallery"
+    url: /gallery/ 
     
 # - title: "Publications"
 #   url: /publications/
