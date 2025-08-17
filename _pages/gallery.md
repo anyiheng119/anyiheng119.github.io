@@ -27,7 +27,7 @@ I love exploring new places — each journey gives me space to reflect, imagine,
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* fixed 3 columns */
+  grid-template-columns: repeat(3, 1fr); /* ✅ exactly 3 per row */
   gap: 1rem;
 }
 
