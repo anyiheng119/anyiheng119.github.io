@@ -39,14 +39,19 @@ I love exploring new places — each journey gives me space to reflect, imagine,
   border-radius: 6px; /* optional for rounded corners */
 }
 
+.gallery-item {
+  text-align: center; /* centers everything inside, including .caption */
+}
+
 figure {
   margin: 0;
   text-align: center;
 }
 
-figcaption {
+caption {
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #555;
+  text-align: center;
 }
 </style>
