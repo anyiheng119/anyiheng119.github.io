@@ -10,16 +10,16 @@ Welcome to my photo gallery. Replace these sample images with your own photograp
 
 <div class="gallery">
   <figure>
-    <img src="https://picsum.photos/id/1025/600/400" alt="Puppy">
-    <figcaption>Puppy – July 2025</figcaption>
+    <img src="/images/gallery/Tampa.jpg" alt="Tampa">
+    <figcaption>Tampa, FL – July 2025</figcaption>
   </figure>
   <figure>
-    <img src="https://picsum.photos/id/1003/600/400" alt="Ocean view">
-    <figcaption>Ocean view – June 2025</figcaption>
+    <img src="/images/gallery/Dallas.jpg" alt="Dallas">
+    <figcaption>Dallas, TX – April 2023</figcaption>
   </figure>
   <figure>
-    <img src="https://picsum.photos/id/1015/600/400" alt="Mountain">
-    <figcaption>Mountain – May 2025</figcaption>
+    <img src="/images/gallery/Charlotte.jpg" alt="Charlotte">
+    <figcaption>Charlotte, NC – Auguest 2022</figcaption>
   </figure>
 </div>
 
