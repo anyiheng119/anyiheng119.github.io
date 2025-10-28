@@ -27,6 +27,10 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ## Research Presentations
 
+**Yiheng An**, Jia Li, Jeffrey Camm, Liang Hu, Qinqin Zhuge and Bingxin Jia (2025). "Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System" Accepted talk at the *Conference on Information Systems and Technology (CIST)* in Atlanta, GA.
+
+**Yiheng An**, Jia Li, Jeffrey Camm, Liang Hu, Qinqin Zhuge and Bingxin Jia (2025). "IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations" Accepted talk at the 3rd Workshop on Causal Inference and Machine Learning in Practice at the *31st ACM ***SIGKDD*** Conference on Knowledge Discovery and Data Mining* in Toronto, ON, Canada.
+
 **Yiheng An**, Jia Li, Jeffrey D. Camm (2025). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Invited talk at the *35th Annual POMS Conference* in Atlanta, GA.
 
 **Yiheng An**, Jia Li, Jeffrey D. Camm (2025). "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics" Accepted talk at the *54th Annual Meeting of Southeast Decision Sciences Institute* in Greenville, SC.
