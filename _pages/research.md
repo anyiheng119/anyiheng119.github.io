@@ -27,17 +27,17 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ## Research Presentations
 
-"Integrated Intelligence in Action: Designing Personalized Real-Time Incentives for Customer Service Agents", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics*** in New York, NY. December, 2025.
+"Integrated Intelligence in Action: Designing Personalized Real-Time Incentives for Customer Service Agents", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics***, New York, NY. December, 2025.
 
-"Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System", ***Conference on Information Systems and Technology (CIST)*** in Atlanta, GA. October, 2025.
+"Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System", ***Conference on Information Systems and Technology (CIST)***, Atlanta, GA. October, 2025.
 
-"IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", the 3rd Workshop on Causal Inference and Machine Learning in Practice at the ***31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining*** in Toronto, ON, Canada. August, 2025.
+"IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", the 3rd Workshop on Causal Inference and Machine Learning in Practice, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
 
-"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", the ***Annual POMS Conference*** in Atlanta, GA. May, 2025.
+"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***Annual POMS Conference***, Atlanta, GA. May, 2025.
 
-"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***Annual Meeting of Southeast Decision Sciences Institute (SEDSI)*** in Greenville, SC. January, 2025.
+"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***Annual Meeting of Southeast Decision Sciences Institute (SEDSI)***, Greenville, SC. January, 2025.
 
-"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***School of Business, Wake Forest University*** in Winston Salem, NC. November, 2024.
+"Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***School of Business, Wake Forest University***, Winston Salem, NC. November, 2024.
 
 
 ## Work in Progress
