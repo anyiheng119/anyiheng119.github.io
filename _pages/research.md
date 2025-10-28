@@ -27,7 +27,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 ## Research Presentations
 
-"Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics*** in New York, NY. December, 2025.
+"Integrated Intelligence in Action: Designing Personalized Real-Time Incentives for Customer Service Agents", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics*** in New York, NY. December, 2025.
 
 "Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System", ***Conference on Information Systems and Technology (CIST)*** in Atlanta, GA. October, 2025.
 
