@@ -19,10 +19,10 @@ Learning
 Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 -->
 
-## Conference Proceedings (Peer-reviewed)
+## Conference Proceedings (Peer-Reviewed)
 
-"IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations," 2025. 
- **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. The 3rd Workshop on Causal Inference and Machine Learning in Practice at the 31st ACM ***SIGKDD*** Conference on Knowledge Discovery and Data Mining.
+"IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", 
+ **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. <a href="https://causal-machine-learning.github.io/kdd2025-workshop/" target="_blank">the 3rd Workshop on Causal Inference and Machine Learning in Practice</a>, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
 
 
 ## Research Presentations
