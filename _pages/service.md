@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Reviewing & Refereeing
-- Ad-hoc Referee, The 56th Annual Conference of the Decision Sciences Institute (DSI) 2025
-- Ad-hoc Referee, The 35th Workshop on Information Technologies and Systems (WITS) 2025
+- Ad-hoc Referee, *Annual Conference of the Decision Sciences Institute* (DSI), Orlando, FL. November, 2025.
+- Ad-hoc Referee,  *Workshop on Information Technologies and Systems* (WITS), Nashville, TN. December, 2025.
 
 ## Conference Involvement
-- Volunteer, The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
+- Session Chair, *Conference on Artificial Intelligence, Machine Learning, and Business Analytics*, New York, NY. December, 2025.
+- Volunteer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, Toronto, ON, Canada. August, 2025.
 
 
 ## Alumni Engagement
