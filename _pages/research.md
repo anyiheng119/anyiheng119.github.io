@@ -19,10 +19,17 @@ Learning
 Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 -->
 
+## Manuscripts Under Review
+
+"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", Jia Li, **Yiheng An**, Yong Tan, ***under review***
+
+
 ## Conference Proceedings (Peer-Reviewed)
 
+"Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang. The 1st Workshop on the Challenges for Human Oversight of AI Systems, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.
+
 "IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", 
- **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. <a href="https://causal-machine-learning.github.io/kdd2025-workshop/" target="_blank">the 3rd Workshop on Causal Inference and Machine Learning in Practice</a>, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
+ **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. <a href="https://causal-machine-learning.github.io/kdd2025-workshop/" target="_blank">The 3rd Workshop on Causal Inference and Machine Learning in Practice</a>, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
 
 
 ## Research Presentations
@@ -39,7 +46,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 
 "Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics", ***School of Business, Wake Forest University***, Winston Salem, NC. November, 2024.
 
-
+<!-- 
 ## Work in Progress
 
 ### Smart Incentive Compensation: Designing Employee Bonuses Using Machine Learning and Analytics
@@ -51,7 +58,7 @@ Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
 The empirical application is developed in partnership with a Fortune Global 100 company in China. The objective is to enhance customer satisfaction within its customer service center by offering bonuses to customer support agents who manage more challenging cases. To begin, we conduct a large-scale field experiment (n=382,604) to evaluate the real-world effectiveness of bonuses in the service context. Next, we use causal ML methods to estimate the counterfactual effects of bonus decisions on customer satisfaction, conditional on key contextual factors such as customer characteristics (e.g., expected lifetime value), agent attributes (e.g., service quality, workloads), and case attributes (e.g., case difficulty). These estimates then serve as labels to train a supervised ML model that predicts the expected impact of bonuses on satisfaction. Finally, these predictions are treated as unknown parameters in a downstream optimization model that suggests bonus decisions.
 
 Off-policy evaluation indicates that our solution can increase customer satisfaction rates for challenging cases by approximately 4.77% compared to a rule-based benchmark, yielding an estimated annual cost reduction of US$ 4.66 million. The technical advantage of our approach comes from three main aspects: (1) it leverages high-dimensional and dynamic data to capture service dynamics, enabling tailored, context-specific decisions; (2) by incorporating counterfactual predictions, it adapts to settings where certain decision parameters are unobservable; and (3) it accommodates any type of ML predictor, allowing flexible implementation based on the actual data quality and availability. Although our current empirical application focuses on customer service center bonuses, the proposed framework can be extended to a wide range of industries and incentive compensation designs.
-
+-->
 
 
 <!-- 
