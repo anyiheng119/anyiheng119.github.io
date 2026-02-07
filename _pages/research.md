@@ -10,23 +10,14 @@ header:
 <!-- My research falls into two general areas: developing novel tools to improve the study of phenotypes in a high-throughput manner and studying the variation and temporal basis of adaptive traits. Advanced methods such as machine learning, distributed computing, container technology, and computer vision are used throughout my research agenda.
 -->
 
-<!-- 
-## Work in Progress
 
-Data-Driven Incentive Optimization: Designing Employee Bonuses Using Decision-Focused Causal 
-Learning 
+<!-- ## Manuscripts Under Review
 
-Measuring Analytics Impact: Learning from 296 Franz Edelman Award Finalists
--->
-
-## Manuscripts Under Review
-
-"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", Jia Li, **Yiheng An**, Yong Tan, ***under review***
-
+"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", Jia Li, **Yiheng An**, Yong Tan, ***under review*** -->
 
 ## Conference Proceedings (Peer-Reviewed)
 
-"Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang. The 1st Workshop on the Challenges for Human Oversight of AI Systems, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.
+<!-- "Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang. The 1st Workshop on the Challenges for Human Oversight of AI Systems, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.-->
 
 "IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", 
  **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. <a href="https://causal-machine-learning.github.io/kdd2025-workshop/" target="_blank">The 3rd Workshop on Causal Inference and Machine Learning in Practice</a>, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
