@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "<p align='center'><font size='+3'><b>About Me</b></font></p>"
-excerpt: "Yiheng An - Personal Website"
+title: "Yiheng An - Home"
+description: "PhD student in Marketing at the Warrington College of Business, University of Florida."
 permalink: /home/
 author_profile: true
 redirect_from:
