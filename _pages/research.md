@@ -11,9 +11,10 @@ header:
 -->
 
 
-<!-- ## Manuscripts Under Review
+## Working Papers
 
-"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", Jia Li, **Yiheng An**, Yong Tan, ***under review*** -->
+"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", Jia Li, **Yiheng An**, Yong Tan, ***under review***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
+
 
 ## Conference Proceedings (Peer-Reviewed)
 
