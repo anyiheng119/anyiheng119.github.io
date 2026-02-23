@@ -18,7 +18,7 @@ header:
 
 ## Conference Proceedings (Peer-Reviewed)
 
-<!-- "Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang. The 1st Workshop on the Challenges for Human Oversight of AI Systems, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.-->
+"Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang.  <a href="https://sites.google.com/view/aichaos/iui-2026" target="_blank">The 1st Workshop on the Challenges for Human Oversight of AI Systems</a>, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.
 
 "IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations", 
  **Yiheng An**, Jia Li, Jeffrey D. Camm, Liang Hu, Qinqin Zhuge, Bingxin Jia. <a href="https://causal-machine-learning.github.io/kdd2025-workshop/" target="_blank">The 3rd Workshop on Causal Inference and Machine Learning in Practice</a>, ***ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, Toronto, ON, Canada. August, 2025.
