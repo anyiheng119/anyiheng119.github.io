@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yiheng An - Home"
+title: "Home"
 description: "PhD student in Marketing at the Warrington College of Business, University of Florida."
 permalink: /home/
 author_profile: true
