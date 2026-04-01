@@ -9,7 +9,7 @@ header:
 
 ## Working Papers
 
-"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", with Jia Li and Yong Tan, ***under review***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
+"Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", with Jia Li and Yong Tan, ***Major Revision***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
 
 
 ## Conference Proceedings (Peer-Reviewed)
