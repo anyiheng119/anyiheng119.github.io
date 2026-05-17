@@ -6,6 +6,7 @@ collection: research
 author_profile: False
 # toc: true
 order_number: 2
+sitemap: false
 header:
   og_image: 'research/cotton.png'
 ---
