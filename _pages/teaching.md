@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
+<!-- 
 ## Teaching Philosophy (as a Teaching Fellow / Assistant)
 
 I shape my role as a Teaching Fellow around two central goals.
@@ -25,7 +25,7 @@ This philosophy reflects my aspiration to become an impactful business educator.
 <div align="center">
   <img src='/images/wfu_classroom.jpg' style='width:40%;' >
 </div>
-
+ -->
 
 
 ## Teaching Experience
