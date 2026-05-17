@@ -2,11 +2,11 @@
 layout: archive
 title: "Home"
 description: "PhD student in Marketing at the Warrington College of Business, University of Florida."
-permalink: /home/
+permalink: /
 author_profile: true
 redirect_from:
+  - /home/
   - /home
-  - /
 ---
 
 I am currently a PhD student in Marketing at the <a href="https://warrington.ufl.edu/" target="_blank">Warrington College of Business</a>, University of Florida. Previously, I was a Fellow at the <a href="https://business.wfu.edu/center-for-analytics-impact/" target="_blank">Center for Analytics Impact</a> at the School of Business, <a href="https://www.wfu.edu/" target="_blank">Wake Forest University</a>, and a Visiting Research Fellow at Alibaba Group. I earned my Master's degree in Quantitative Economics from <a href="https://www.ucla.edu/" target="_blank">UCLA</a>, where I also obtained a Graduate Certificate in Data Science. Prior to that, I completed my undergraduate studies in Economics at <a href="https://english.njau.edu.cn/" target="_blank">Nanjing Agricultural University</a> in China.
