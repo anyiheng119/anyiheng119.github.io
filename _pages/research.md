@@ -11,6 +11,8 @@ header:
 
 "Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", with Jia Li and Yong Tan, ***Major Revision***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
 
+## Selected Work in Progress
+"MSI-Adobe Initiative on Brand Equity and Financial Impact"
 
 ## Conference Proceedings (Peer-Reviewed)
 
