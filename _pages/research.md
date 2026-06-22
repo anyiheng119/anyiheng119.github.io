@@ -12,7 +12,9 @@ header:
 "Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", with Jia Li and Yong Tan, ***Major Revision***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
 
 ## Selected Work in Progress
-"MSI-Adobe Initiative on Brand Equity and Financial Impact"
+"Inferring Long-Term Brand Marketing Impact from Short-Term Signals", with Mingzhang Yin
+- Supported by the <a href="https://www.msi.org/2026-causal-pathways-and-metrics-for-brand-equity-and-financial-impact/" target="_blank">Marketing Science Institute (MSI)–Adobe Initiative on Brand Equity and Financial Impact</a>
+
 
 ## Conference Proceedings (Peer-Reviewed)
 
