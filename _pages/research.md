@@ -11,12 +11,12 @@ header:
 
 "Personalized Real-Time Incentives for Customer Service Agents: A Decision Support System", with Jia Li and Yong Tan, ***Major Revision***, Available at <a href="https://ssrn.com/abstract=6187839" target="_blank">SSRN</a>.
 
-## Selected Work in Progress
+## Work in Progress
 "Inferring Long-Term Brand Marketing Impact from Short-Term Signals", with Mingzhang Yin
 - Supported by the <a href="https://www.msi.org/2026-causal-pathways-and-metrics-for-brand-equity-and-financial-impact/" target="_blank">Marketing Science Institute (MSI)–Adobe Initiative on Brand Equity and Financial Impact</a>
 
 
-## Conference Proceedings (Peer-Reviewed)
+## CS Workshop Papers (Peer-Reviewed)
 
 "Human Oversight in Action: Designing Risk-Aware AI Systems for Employee Incentive Planning", **Yiheng An**, Jia Li, Fan Yang, Jiawei Zhang.  <a href="https://sites.google.com/view/aichaos/iui-2026" target="_blank">The 1st Workshop on the Challenges for Human Oversight of AI Systems</a>, ***ACM Conference on Intelligent User Interfaces***, Paphos, Cyprus. March 2026.
 
