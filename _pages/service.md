@@ -10,7 +10,7 @@ author_profile: true
 - Ad-hoc Referee,  *Workshop on Information Technologies and Systems* (WITS), Nashville, TN. December, 2025.
 
 ## Conference Involvement
-- Session Chair, *Conference on Artificial Intelligence, Machine Learning, and Business Analytics*, New York, NY. December, 2025.
+- Session Chair, *Conference on Artificial Intelligence, Machine Learning, and Business Analytics*, Columbia University, New York, NY. December, 2025.
 - Volunteer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, Toronto, ON, Canada. August, 2025.
 
 

@@ -28,7 +28,7 @@ header:
 
 "Integrating Marketing Mix Modeling and Multi-Touch Attribution for Improved Customer Response Modeling in Online Retail", ***Annual POMS Conference***, Reno, NV. May, 2026.
 
-"Integrated Intelligence in Action: Designing Personalized Real-Time Incentives for Customer Service Agents", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics***, New York, NY. December, 2025.
+"Integrated Intelligence in Action: Designing Personalized Real-Time Incentives for Customer Service Agents", ***Conference on Artificial Intelligence, Machine Learning, and Business Analytics***, Columbia University, New York, NY. December, 2025.
 
 "Personalized Real-Time Incentives for Customer Service Agents: An Intelligent Decision-Support System", ***Conference on Information Systems and Technology (CIST)***, Atlanta, GA. October, 2025.
 
