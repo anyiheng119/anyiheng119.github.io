@@ -26,7 +26,7 @@ header:
 
 ## Research Presentations
 
-"From Frontier Models to Frugal Teams: Harnessing Domain Knowledge for Cost-Efficient Causal Discovery with AI Agents", ***AI in Business Conference, Max M. Fisher College of Business***, Ohio State University, Columbus, OH. October, 2026.
+"From Frontier Models to Frugal Teams: Harnessing Domain Knowledge for Cost-Efficient Causal Discovery with AI Agents", ***Fisher AI in Business Conference***, Max M. Fisher College of Business, Ohio State University, Columbus, OH. October, 2026.
 
 "Fooled by Irrelevance: Measuring and Mitigating AI Shopping Agents' Use of Non-Diagnostic Attributes", ***Marketing Research Workshop, Warrington College of Business***, University of Florida, Gainesville, FL. August, 2026.
 
