@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 # twitter:
-#  username               : emmanuelg_p
+#  username               :
 # facebook:
 #  username               :
 #  app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Gainesville, FL, USA"
   employer         : 
   pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=VHqrBQsAAAAJ"
+  googlescholar    :
   email            : "yiheng.an.usa@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "anyiheng119"
   google_plus      :
   keybase          :
-  # instagram        : "curious.plant.scientist"
+  instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yiheng-an/"
-  # orcid            : "https://orcid.org/0000-0002-3021-9842"
+  orcid            :
   pinterest        :
   soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "emmanuelg_p"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -267,7 +267,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: 	America/Phoenix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
