@@ -11,6 +11,7 @@ author_profile: true
 - Reviewer, *Annual Conference of the Decision Sciences Institute (DSI 2025)*, Orlando, FL. November, 2025.
 
 ## Conference Service
+- Session Chair, *Fisher AI in Business Conference*, Ohio State University, Columbus, OH. October, 2026.
 - Session Chair, *Conference on Artificial Intelligence, Machine Learning, and Business Analytics*, Columbia University, New York, NY. December, 2025.
 - Volunteer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, Toronto, ON, Canada. August, 2025.
 
