@@ -16,6 +16,7 @@ author_profile: true
 - Volunteer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, Toronto, ON, Canada. August, 2025.
 
 
-## Panelist
+## Mentoring & Outreach
+- Reviewer, Florida Undergraduate Research Conference (FURC 2027), Kissimmee, FL. January 2027.
 - Alumni Panelist, Master of Quantitative Economics at UCLA, Spring 2024.
 - Alumni Panelist, Master of Quantitative Economics at UCLA, Fall 2022.
