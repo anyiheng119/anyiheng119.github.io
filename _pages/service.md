@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Reviewing Service
-- Program Committee Member & Reviewer,  *Workshop on Information Technologies and Systems (WITS 2026)*, Lisbon, Portugal. December, 2026.
-- Program Committee Member & Reviewer,  *Workshop on Information Technologies and Systems (WITS 2025)*, Nashville, TN. December, 2025.
+- Reviewer & Program Committee Member,  *Workshop on Information Technologies and Systems (WITS 2026)*, Lisbon, Portugal. December, 2026.
+- Reviewer & Program Committee Member,  *Workshop on Information Technologies and Systems (WITS 2025)*, Nashville, TN. December, 2025.
 - Reviewer, *Annual Conference of the Decision Sciences Institute (DSI 2025)*, Orlando, FL. November, 2025.
 
 ## Conference Service
@@ -17,6 +17,6 @@ author_profile: true
 
 
 ## Mentoring & Outreach
-- Reviewer, Florida Undergraduate Research Conference (FURC 2027), Kissimmee, FL. January 2027.
+- Reviewer, *Florida Undergraduate Research Conference (FURC 2027)*, Kissimmee, FL. January 2027.
 - Alumni Panelist, Master of Quantitative Economics at UCLA, Spring 2024.
 - Alumni Panelist, Master of Quantitative Economics at UCLA, Fall 2022.
